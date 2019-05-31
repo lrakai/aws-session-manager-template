@@ -43,7 +43,7 @@
                 "IamInstanceProfile": {
                     "Ref": "Ec2InstanceProfile"
                 },
-                "ImageId": "ami-4836a428",
+                "ImageId": "ami-0cb72367e98845d43",
                 "InstanceType": "t3.micro",
                 "SecurityGroupIds": [
                     {
